@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="SauceLabsDemoTest"
+    errors="0" failures="0" hostname="" id="" package="SauceLabsDemoTest" skipped="0"
+    tests="1" time="8.273" timestamp="">
+  
+    <testcase name="user can login successfully with username and password" classname="SauceLabsDemoTest" time="8.273" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
